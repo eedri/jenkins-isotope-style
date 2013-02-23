@@ -19,7 +19,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #top-panel td #login-field span a {
     background: none;
-    color: #008000 !important;
 }
 
 #top-panel td #searchform a {
@@ -92,3 +91,5 @@ h1, h2, h3, h4, h5, h6 {
 
 #view-message #description a img {
   padding-right: 4px; }
+
+#login-field a{color: #4e9a06 !important;}
