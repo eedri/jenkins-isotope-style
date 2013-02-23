@@ -9,22 +9,22 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4e9a06;
+  color: #4f7b94; 
 }
 
 #top-panel {
-  background: none;
+  background: none; 
   border-bottom: 2px #4E9A06 solid;
 }
 
 #top-panel td #login-field span a {
-    background: none;
+    background: none; 
 }
 
 #top-panel td #searchform a {
     background: none;
     height: auto;
-    width: auto;
+    width: auto; 
 }
 
 #top-panel td > a {
@@ -32,11 +32,11 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
     width: 130px;
     height: 40px;
-    margin: 10px 0 10px 10px;
+    margin: 10px 0 10px 10px; 
 }
 
 #top-panel td > a img {
-      display: none;
+      display: none; 
 }
 
 #projectstatus {
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #main-table {
   border-top: 0;
-  border-bottom: 0;
+  border-bottom: 0; 
   background-image: url(http://ecohen149.github.com/clipboard/oVirt-logo.png);
   background-repeat: no-repeat;
   background-position: bottom left;
