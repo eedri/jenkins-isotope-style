@@ -18,7 +18,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #top-panel td #login-field span a {
-    background: #4e9a06;
+    background: none;
+    color: #008000 !important;
 }
 
 #top-panel td #searchform a {
