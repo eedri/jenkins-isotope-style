@@ -92,4 +92,4 @@ h1, h2, h3, h4, h5, h6 {
 #view-message #description a img {
   padding-right: 4px; }
 
-#login-field span{color: #4e9a06 !important;}
+#login-field span a {color: #4e9a06 !important;}
